@@ -59,4 +59,5 @@ struct PhraseWidget: Widget {
 } timeline: {
     SimpleEntry(date: .now, configuration: ConfigurationAppIntent(phrase: "Dream big", background: .blue))
     SimpleEntry(date: .now, configuration: ConfigurationAppIntent(phrase: "Be better than yesterday", background: .red))
+    SimpleEntry(date: .now, configuration: ConfigurationAppIntent(phrase: "Taller iOS", background: .green))
 }
